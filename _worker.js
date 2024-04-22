@@ -17,7 +17,8 @@ https://hy2sub.pages.dev
 
 //请将机场订阅链接填入上方
 let urls = [
-   'https://3k.fxxk.dedyn.io/sub'	
+   'https://3k.fxxk.dedyn.io/sub'
+   'https://update.glados-config.com/clash/367195/38720fb/47057/glados.yaml'
 ];// https://subs.zeabur.app/clash , https://neko-warp.nloli.xyz/neko_warp.yaml
 
 let subconverter = "apiurl.v1.mk"; //在线订阅转换后端，目前使用肥羊的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
